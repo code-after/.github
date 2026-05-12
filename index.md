@@ -3,15 +3,15 @@ layout: default
 title: Home Page
 ---
 
-&lt;div align="center"&gt;
+<div align="center">
 
-# Code After - A global, multilingual research programme on AI’s impact on societies and institutions. This organization provides public metadata, multilingual editions, citations, documentation, and versioned releases for the Code After AI Series and its future volumes.
+# Code After - A global, multilingual research programme on AI’s impact on societies and institutions. 
 
 [![GitHub](https://img.shields.io/badge/GitHub-code--after-181717?logo=github)](https://github.com/code-after)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](License.md)
 [![Pages](https://img.shields.io/badge/Pages-Live-success?logo=github)](https://code-after.github.io)
 
-&lt;/div&gt;
+</div>
 
 ---
 
@@ -73,15 +73,3 @@ title: Home Page
 
 ---
 
-## 📚 学习路线
-
-```mermaid
-graph LR
-    A[HTML/CSS基础] --&gt; B[JavaScript核心]
-    B --&gt; C[React/Vue框架]
-    C --&gt; D[工程化工具]
-    D --&gt; E[性能优化]
-    E --&gt; F[全栈开发]
-    
-    style A fill:#e1f5fe
-    style F fill:#c8e6c9
