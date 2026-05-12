@@ -4,6 +4,6 @@ description: Code After - A global, multilingual research programme on AI’s im
 
 header_pages:
   - index.md
-  - about.md      # 显示为 "About"
+  - papers/Code After Series Overview.md      # 显示为 "About"
   - posts.md      # 显示为 "Posts"
   - projects.md   # 显示为 "Projects"
