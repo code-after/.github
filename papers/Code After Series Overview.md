@@ -37,9 +37,9 @@ This page exists in twenty-four languages because the project's central commitme
 |:---|:---|
 | **Website** | [codeafter.ai](https://codeafter.ai) |
 | **Archive** | [Zenodo Community — Code After AI Series](https://zenodo.org/communities/code-after) |
-| **Series Announcement (May 2026)** | [DOI 10.5281/zenodo.19910082](https://doi.org/10.5281/zenodo.19910082) |
+| **Series Announcement (May 2026)** | [DOI 10.5281/zenodo.20079145](https://doi.org/10.5281/zenodo.20079145) |
 | **Framework Manuscript v0.9 (April 2026)** | [DOI 10.5281/zenodo.19537473](https://doi.org/10.5281/zenodo.19537473) |
-| **Partnerships & Inquiries** | [partners@codeafter.ai](partners@codeafter.ai) |
+| **Partnerships & Inquiries** | [partners@codeafter.ai](mailto:partners@codeafter.ai) |
 
 ---
 
