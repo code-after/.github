@@ -5,7 +5,7 @@ title: Home Page
 
 <div align="center">
 
-# Code After
+# Welcome to Code After
 
 **A Translation Project for the AI Era**
 
