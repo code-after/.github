@@ -5,7 +5,7 @@ title: Overview
 
 # Code After
 
-## A Multilingual Research Programme on What AI Is Doing to the Societies and Institutions You Live In
+## A Multilingual Research Programme on How AI Is Reshaping Societies and Institutions You Live In
 
 Artificial intelligence is being built by very few people, in very few places, for a world of nearly everyone else.The capital, talent, computing power, and institutional concentration required to build frontier AI systems exists at scale only in the United States and China, with important centres in the United Kingdom, the European Union, and a small number of other economies.The consequences will be lived by the world — including billions of people far from the institutions building the systems.
 
