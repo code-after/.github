@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the following metadata."
+type: software
+title: "Code After: Law, Accounting, and the Governance of Artificial Intelligence"
+version: 0.9.0
+date-released: 2026-04-01
+doi: 10.5281/zenodo.19537473
+url: "https://codeafter.ai"
+repository-code: "https://zenodo.org/communities/code-after-ai"
+license: CC-BY-NC-ND-4.0
+
+identifiers:
+  - type: doi
+    value: "https://doi.org/10.5281/zenodo.19537473"
+    description: "Zenodo archive (primary DOI)"
+  - type: url
+    value: "https://doi.org/10.2139/ssrn.6563959"
+    description: "SSRN preprint"
+  - type: url
+    value: "https://www.researchgate.net/publication/403981543_CODE_AFTER_Law_Accounting_and_the_Governance_of_Artificial_Intelligence"
+    description: "ResearchGate profile"
+
+authors:
+  - family-names: Yan
+    given-names: Richard
+    orcid: "https://orcid.org/0009-0000-7611-6323"
+
+abstract: >
+  Code After is a research and publishing project on how artificial intelligence
+  is reshaping the institutions that govern modern life — law, accounting,
+  language, evidence, work, and public authority. It treats AI not as a
+  technology in isolation, but as an institutional event with consequences for how
+  rules are made, value is measured, responsibility is assigned, and authority
+  is exercised. The work is open access, multilingual by design, and built on a
+  fifteen-chapter framework manuscript published in April 2026.
+
+keywords:
+  - artificial intelligence
+  - governance
+  - law
+  - accounting
+  - institutional analysis
+  - AI regulation
+  - multilinguism
+
+preferred-citation:
+  type: generic
+  title: "Code After: Law, Accounting, and the Governance of Artificial Intelligence"
+  version: 0.9.0
+  year: 2026
+  authors:
+    - family-names: Yan
+      given-names: Richard
+  doi: 10.5281/zenodo.19537473
+  url: "https://codeafter.ai"
