@@ -1,3 +1,8 @@
+---
+layout: default
+title: FAQ
+---
+
 # Code After — Frequently Asked Questions
 
 ## What is Code After?
