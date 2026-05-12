@@ -31,8 +31,6 @@ The AI transition is not negotiable. It is not escapable. It is not waiting for 
 
 This page exists in twenty-four languages because the project's central commitment is that the conversations AI requires must happen in every community's own language — or they will not happen at all.
 
----
-
 | | |
 |:---|:---|
 | **Website** | [codeafter.ai](https://codeafter.ai) |
