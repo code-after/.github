@@ -7,35 +7,14 @@ title: Overview
 
 ## A Multilingual Research Programme on What AI Is Doing to the Societies and Institutions You Live In
 
----
+Artificial intelligence is being built by very few people, in very few places, for a world of nearly everyone else.The capital, talent, computing power, and institutional concentration required to build frontier AI systems exists at scale only in the United States and China, with important centres in the United Kingdom, the European Union, and a small number of other economies.The consequences will be lived by the world — including billions of people far from the institutions building the systems.
 
-Artificial intelligence is being built by very few people, in very few places, for a world of nearly everyone else.
+The gap between the people building AI and the people who will live with what is being built is the defining inequality of this era. It is wider, and harder to see, than the gaps that marked earlier industrial transitions. Artificial intelligence does not behave like the technologies that came before it. People can use it fluently without being able to explain how it works, what it has decided, or what it has changed about the societies and institutions around them — the languages they speak, the schools and universities they attend, the workplaces they spend their lives in, the courts that decide their disputes, the markets that price their work, and the laws that govern their communities.
 
-The capital, talent, computing power, and institutional concentration required to build frontier AI systems exists at scale only in the United States and China, with important centres in the United Kingdom, the European Union, and a small number of other economies.
-
-The consequences will be lived by the world — including billions of people far from the institutions building the systems.
-
-The gap between the people building AI and the people who will live with what is being built is the defining inequality of this era.
-
-It is wider, and harder to see, than the gaps that marked earlier industrial transitions. Artificial intelligence does not behave like the technologies that came before it.
-
-People can use it fluently without being able to explain:
-- how it works
-- what it has decided
-- what it has changed about the societies and institutions around them
-
-These changes touch every dimension of life: the languages people speak, the schools and universities they attend, the workplaces they spend their lives in, the courts that decide their disputes, the markets that price their work, and the laws that govern their communities.
+Code After is a research programme that exists to close that gap. Not by explaining how AI works technically, which others do well, but by translating what AI is doing to the societies and institutions ordinary people depend on. The work is open access, multilingual by design, and built on a fifteen- chapter framework manuscript published in April 2026 — Code After: Law, Accounting, and the Governance of Artificial Intelligence (v0.9), archived on Zenodo.
 
 
-Code After is a research programme that exists to close that gap.Not by explaining how AI works technically, which others do well, but by **translating what AI is doing to the societies and institutions ordinary people depend on**.
-
-The work is:
-- **Open access** — freely available to all
-- **Multilingual by design** — published in the languages communities actually use
-- **Built on a fifteen-chapter framework manuscript** — *Code After: Law, Accounting, and the Governance of Artificial Intelligence (v0.9)*, archived on [Zenodo](https://doi.org/10.5281/zenodo.19537473)
-
-
-A series of **six papers** will be released over **twenty-four months**, each addressing one domain AI is reshaping most consequentially in everyday civic, economic, and institutional life:
+A series of six papers will be released over twenty-four months, each addressing one domain AI is reshaping most consequentially in everyday civic, economic, and institutional life:
 
 | Paper | Subject | Release |
 |:---:|:---|:---:|
@@ -46,19 +25,13 @@ A series of **six papers** will be released over **twenty-four months**, each ad
 | 5 | Measurement | January 2028 |
 | 6 | Jurisdiction | May 2028 |
 
-Each paper will appear in **English and Chinese simultaneously**, with additional language editions produced through partnership with publishers, universities, civil-society organisations, and policy institutions worldwide.
+Each paper will appear in English and Chinese simultaneously, with additional language editions produced through partnership with publishers, universities, civil-society organisations, and policy institutions in the languages communities actually use. The first paper, Code After Language, examines what frontier AI is doing to the roughly seven thousand languages currently spoken in the world — and what it means for the communities whose civic and institutional life is conducted in them.
 
-The first paper, **Code After Language**, examines what frontier AI is doing to the roughly seven thousand languages currently spoken in the world — and what it means for the communities whose civic and institutional life is conducted in them.
+The AI transition is not negotiable. It is not escapable. It is not waiting for institutions, civil societies, or the public to catch up. Code After is an attempt to give all of them a framework they can use in the time that remains before the architecture hardens.
 
-
-&gt; The AI transition is not negotiable. It is not escapable. It is not waiting for institutions, civil societies, or the public to catch up.
-&gt;
-&gt; Code After is an attempt to give all of them a framework they can use in the time that remains before the architecture hardens.
-
-This page exists in **twenty-four languages** because the project's central commitment is that the conversations AI requires must happen in every community's own language — or they will not happen at all.
+This page exists in twenty-four languages because the project's central commitment is that the conversations AI requires must happen in every community's own language — or they will not happen at all.
 
 ---
-
 
 | | |
 |:---|:---|
@@ -66,7 +39,7 @@ This page exists in **twenty-four languages** because the project's central comm
 | **Archive** | [Zenodo Community — Code After AI Series](https://zenodo.org/communities/code-after) |
 | **Series Announcement (May 2026)** | DOI [forthcoming] |
 | **Framework Manuscript v0.9 (April 2026)** | [DOI 10.5281/zenodo.19537473](https://doi.org/10.5281/zenodo.19537473) |
-| **Partnerships & Inquiries** | *(contact email)* |
+| **Partnerships & Inquiries** | partners@codeafter.ai |
 
 ---
 
