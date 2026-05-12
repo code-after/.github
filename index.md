@@ -5,7 +5,8 @@ title: Home Page
 
 <div align="center">
 
-# Code After - A global, multilingual research programme on AI’s impact on societies and institutions. 
+# Code After - A Translation Project for the AI Era 
+**A global, multilingual research programme on AI’s impact on societies and institutions**
 
 [![GitHub](https://img.shields.io/badge/GitHub-code--after-181717?logo=github)](https://github.com/code-after)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](License.md)
