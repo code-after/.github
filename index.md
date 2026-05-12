@@ -13,11 +13,8 @@ title: Home Page
 
 ---
 
-![Date](https://img.shields.io/badge/May%2011%2C%20206%20(v1)-blue)
-![Preprint](https://img.shields.io/badge/Preprint-grey)
-![Open](https://img.shields.io/badge/Open-green)
 
-## [Code After Series Announcement](https://doi.org/10.5281/zenodo.20079145)
+## [Code After Series Announcement](papers/Code_After_Series_Announcement.md)
 
 **Yan, Richard** [![ORCID](https://img.shields.io/badge/iD-green?logo=orcid)](https://orcid.org/0009-0000-7611-6323)
 
