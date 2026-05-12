@@ -1,3 +1,8 @@
+---
+layout: default
+title: About
+---
+
 **CODE AFTER**
 **A ****M****ultilingual ****Research ****Programme**
 **on What ****AI ****Is Doing to the Societies and Institutions You Live In**
