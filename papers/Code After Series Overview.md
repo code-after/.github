@@ -9,15 +9,11 @@ title: Overview
 
 ---
 
-### The Problem
-
 Artificial intelligence is being built by very few people, in very few places, for a world of nearly everyone else.
 
 The capital, talent, computing power, and institutional concentration required to build frontier AI systems exists at scale only in the United States and China, with important centres in the United Kingdom, the European Union, and a small number of other economies.
 
 The consequences will be lived by the world — including billions of people far from the institutions building the systems.
-
-### The Gap
 
 The gap between the people building AI and the people who will live with what is being built is the defining inequality of this era.
 
@@ -30,18 +26,14 @@ People can use it fluently without being able to explain:
 
 These changes touch every dimension of life: the languages people speak, the schools and universities they attend, the workplaces they spend their lives in, the courts that decide their disputes, the markets that price their work, and the laws that govern their communities.
 
-### What Code After Does
 
-Code After is a research programme that exists to close that gap.
-
-&gt; Not by explaining how AI works technically, which others do well, but by **translating what AI is doing to the societies and institutions ordinary people depend on**.
+Code After is a research programme that exists to close that gap.Not by explaining how AI works technically, which others do well, but by **translating what AI is doing to the societies and institutions ordinary people depend on**.
 
 The work is:
 - **Open access** — freely available to all
 - **Multilingual by design** — published in the languages communities actually use
 - **Built on a fifteen-chapter framework manuscript** — *Code After: Law, Accounting, and the Governance of Artificial Intelligence (v0.9)*, archived on [Zenodo](https://doi.org/10.5281/zenodo.19537473)
 
-### The Paper Series
 
 A series of **six papers** will be released over **twenty-four months**, each addressing one domain AI is reshaping most consequentially in everyday civic, economic, and institutional life:
 
@@ -58,7 +50,6 @@ Each paper will appear in **English and Chinese simultaneously**, with additiona
 
 The first paper, **Code After Language**, examines what frontier AI is doing to the roughly seven thousand languages currently spoken in the world — and what it means for the communities whose civic and institutional life is conducted in them.
 
-### The Stakes
 
 &gt; The AI transition is not negotiable. It is not escapable. It is not waiting for institutions, civil societies, or the public to catch up.
 &gt;
@@ -68,7 +59,6 @@ This page exists in **twenty-four languages** because the project's central comm
 
 ---
 
-### Resources & Contact
 
 | | |
 |:---|:---|
@@ -80,7 +70,6 @@ This page exists in **twenty-four languages** because the project's central comm
 
 ---
 
-### Code After in 24 Languages
 
 | | | | |
 |:---:|:---:|:---:|:---:|
