@@ -1,13 +1,11 @@
 ---
 layout: default
-title: 首页
+title: Home Page
 ---
 
 &lt;div align="center"&gt;
 
-# 👋 欢迎来到我的博客
-
-**记录技术成长，分享学习心得**
+# Code After - A global, multilingual research programme on AI’s impact on societies and institutions. This organization provides public metadata, multilingual editions, citations, documentation, and versioned releases for the Code After AI Series and its future volumes.
 
 [![GitHub](https://img.shields.io/badge/GitHub-code--after-181717?logo=github)](https://github.com/code-after)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](License.md)
