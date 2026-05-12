@@ -1,3 +1,8 @@
+---
+layout: default
+title: Code After Series Announcement
+---
+
 # Code After Series — A Translation Project for the AI Era
 
 **Author:** Richard Yan  
