@@ -5,6 +5,6 @@ description: Code After - A global, multilingual research programme on AI’s im
 header_pages:
   - toc.md
   - index.md
-  - overview.md      # 显示为 "About"
+  - papers/overview.md      # 显示为 "About"
   - FAQ.md      # 显示为 "FAQ"
   - projects.md   # 显示为 "Projects"
