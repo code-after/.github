@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contents
+permalink: /v0.9 content/
 ---
 
 # Contents
