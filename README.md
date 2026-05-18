@@ -4,4 +4,4 @@ A global, multilingual research programme on AI’s impact on societies and inst
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/company/codeafter-ai?trk=public_profile_topcard-current-company) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/company/codeafter-ai?trk=public_profile_topcard-current-company)[![Substack](https://img.shields.io/badge/Substack-Follow-orange?logo=newsstack)](https://codeafter.substack.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/company/codeafter-ai?trk=public_profile_topcard-current-company) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/company/codeafter-ai?trk=public_profile_topcard-current-company) [![Substack](https://img.shields.io/badge/Substack-Follow-orange?logo=newsstack)](https://codeafter.substack.com)
