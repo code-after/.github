@@ -1,9 +1,3 @@
----
-layout: default
-title: Overview
-permalink: /overview/
----
-
 # Code After
 
 ## A Multilingual Research Programme on How AI Is Reshaping Societies and Institutions You Live In
@@ -42,13 +36,22 @@ This page exists in twenty-four languages because the project's central commitme
 
 ---
 
+## Currently Available Languages
 
-| | | | |
-|:---:|:---:|:---:|:---:|
-| **Code After** | 代码之后 | 代碼之後 | コード・アフター |
-| 코드 애프터 | Sau Mã | หลังโค้ด | Setelah Kode |
-| কোডের পরে | कोड के बाद | کوڈ کے بعد | پس از کد |
-| بعد الكود | Kod Sonrası | После Кода | Baada ya Msimbo |
-| ከኮድ በኋላ | Bayan Kode | Efter Koden | Nach dem Code |
-| Après le Code | Dopo il Codice | Después del Código | Depois do Código |
-
+| Language | Edition | DOI |
+|:---|:---|:---|
+| 🇬🇧 English | Original | [10.5281/zenodo.19910082](https://doi.org/10.5281/zenodo.19910082) |
+| 🇨🇳 中文 | Chinese | [10.5281/zenodo.19941099](https://doi.org/10.5281/zenodo.19941099) |
+| 🇫🇷 Français | French | [10.5281/zenodo.20116790](https://doi.org/10.5281/zenodo.20116790) |
+| 🇧🇷 Português (Brasil) | Brazilian Portuguese | [10.5281/zenodo.20117200](https://doi.org/10.5281/zenodo.20117200) |
+| 🇵🇹 Português (Portugal) | European Portuguese | [10.5281/zenodo.20116780](https://doi.org/10.5281/zenodo.20116780) |
+| 🇪🇸 Español | Spanish | [10.5281/zenodo.20229622](https://doi.org/10.5281/zenodo.20229622) |
+| 🇩🇪 Deutsch | German | [10.5281/zenodo.20199218](https://doi.org/10.5281/zenodo.20199218) |
+| 🇹🇷 Türkçe | Turkish | [10.5281/zenodo.20251758](https://doi.org/10.5281/zenodo.20251758) |
+| 🇮🇹 Italiano | Italian | [10.5281/zenodo.20200188](https://doi.org/10.5281/zenodo.20200188) |
+| 🇷🇺 Русский | Russian | [10.5281/zenodo.20229420](https://doi.org/10.5281/zenodo.20229420) |
+| 🇸🇪 Svenska | Swedish | [10.5281/zenodo.20230007](https://doi.org/10.5281/zenodo.20230007) |
+| 🇮🇩 Bahasa Indonesia | Indonesian | [10.5281/zenodo.20199712](https://doi.org/10.5281/zenodo.20199712) |
+| 🇯🇵 日本語 | Japanese | [10.5281/zenodo.20204925](https://doi.org/10.5281/zenodo.20204925) |
+| 🇰🇷 한국어 | Korean | [10.5281/zenodo.20205219](https://doi.org/10.5281/zenodo.20205219) |
+| 🇸🇦 العربية | Arabic | [10.5281/zenodo.20198154](https://doi.org/10.5281/zenodo.20198154) |
