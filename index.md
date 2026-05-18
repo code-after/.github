@@ -10,6 +10,7 @@ title: Home Page
 [![GitHub](https://img.shields.io/badge/GitHub-code--after-181717?logo=github)](https://github.com/code-after)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](License.md)
 [![Pages](https://img.shields.io/badge/Pages-Live-success?logo=github)](https://code-after.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/company/codeafter-ai?trk=public_profile_topcard-current-company)
 [![Substack](https://img.shields.io/badge/Substack-Follow-orange?logo=newsstack)](https://codeafter.substack.com)
 
 
