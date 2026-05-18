@@ -34,7 +34,6 @@ This page exists in twenty-four languages because the project's central commitme
 | **Framework Manuscript v0.9 (April 2026)** | [DOI 10.5281/zenodo.19537473](https://doi.org/10.5281/zenodo.19537473) |
 | **Partnerships & Inquiries** | [partners@codeafter.ai](mailto:partners@codeafter.ai) |
 
----
 
 ## Currently Available Languages
 
