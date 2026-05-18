@@ -1,8 +1,3 @@
----
-layout: default
-title: Code After Series Announcement
----
-
 # Code After Series — A Translation Project for the AI Era
 
 **Author:** Richard Yan  
@@ -16,15 +11,6 @@ title: Code After Series Announcement
 **Additional dissemination:** ResearchGate; SSRN; codeafter.ai  
 **Length:** Approx. 11,000 words  
 **Language:** English (Chinese edition in parallel to follow)
-
----
-
-## Copyright and License
-
-© 2026 Richard Yan · codeafter.ai  
-Licensed under Creative Commons Attribution — NonCommercial — NoDerivatives 4.0 International (CC BY-NC-ND 4.0). Attribution required. Commercial use and derivative works prohibited. For inquiries about translation, local-language editions, and publishing partnership, see Section VIII of this paper or contact partners@codeafter.ai.
-
----
 
 ## Abstract
 
