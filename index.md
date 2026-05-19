@@ -15,7 +15,15 @@ title: Home Page
 
 
 ---
+## [CODE AFTER - Chapter 1: The World States Cannot See](code_after_V0.9/02-chapter-1.md)
 
+**Yan, Richard** [![ORCID](https://img.shields.io/badge/iD-green?logo=orcid)](https://orcid.org/0009-0000-7611-6323)
+
+The chapter illustrates the core problem: AI-driven decisions now occur continuously, across borders, and at scales that no single regulator can directly observe.
+
+*Uploaded on May 19, 2026*
+
+---
 
 ## [Code After Series Announcement](papers/Code_After_Series_Announcement.md)
 
