@@ -58,7 +58,7 @@ This book reflects that shared journey. It is not a co-authored work, but it is 
 
 ### Why Sovereignty No Longer Compiles: Governance after AI
 
-#### [Chapter 1 — The World States Cannot See](/chapter-1/)
+#### Chapter 1 — The World States Cannot See
 
 - I. The Illusion of Control
 - II. The Three Dimensions of the Visibility Gap
@@ -77,7 +77,7 @@ This book reflects that shared journey. It is not a co-authored work, but it is 
 - V. Who Does See — The Visibility Monopoly
 - VI. The Road Ahead — What the Visibility Monopoly Makes Possible
 
-#### [Chapter 2 — The Rule-Execution Gap](/chapter-2/)
+#### Chapter 2 — The Rule-Execution Gap
 
 ##### Why Governance Fails at Implementation, Not Legislation
 
@@ -113,7 +113,7 @@ This book reflects that shared journey. It is not a co-authored work, but it is 
 
 ### The Dual Languages of Governance
 
-#### [Section I — Law as the Language of Power](/law/)
+#### Section I — Law as the Language of Power
 
 - The First Function: Naming What Exists
 - The Industrial Logic versus the AI Universe
@@ -126,7 +126,7 @@ This book reflects that shared journey. It is not a co-authored work, but it is 
   - E. The Adaptive Constitution: When Private Law Outpaces Public Law
   - F. The Constitutional Consequence
 
-#### [Section II — Accounting as the Language of Measurement](/accounting/)
+#### Section II — Accounting as the Language of Measurement
 
 - The Industrial Logic and the AI Mismatch
 - The Rise of the Value Intermediaries
@@ -140,7 +140,7 @@ This book reflects that shared journey. It is not a co-authored work, but it is 
 
 ---
 
-## [Part III — The Architecture of the Global AI Stack](/part-3/)
+## Part III — The Architecture of the Global AI Stack
 
 - I. From Architecture to Implementation
 - II. The AI Governance Machine
@@ -152,7 +152,7 @@ This book reflects that shared journey. It is not a co-authored work, but it is 
 
 ---
 
-## [Part IV — The Governance Engine](/part-4/)
+## Part IV — The Governance Engine
 
 ### Design, Propagation, and the Incorporation Heuristic
 
@@ -183,7 +183,7 @@ This book reflects that shared journey. It is not a co-authored work, but it is 
 
 ---
 
-## [Part V — The Material Constitution of the AI Era](/part-5/)
+## Part V — The Material Constitution of the AI Era
 
 ### Compute, Capacity, and the Constitutional Limits of Governance
 
